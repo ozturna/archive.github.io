@@ -1,6 +1,13 @@
 # Games on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
+[<img src="https://github.com/valvesoftware.png" title="Valve" height="50">](https://github.com/valvesoftware)&nbsp;
+[<img src="https://github.com/riotgames.png" title="Riot Games" height="50">](https://github.com/riotgames)&nbsp;
+[<img src="https://github.com/OculusVR.png" title="Oculus VR Inc" height="50">](https://github.com/OculusVR)&nbsp;
+[<img src="https://github.com/electronicarts.png" title="Electronic Arts" height="50">](https://github.com/electronicarts)&nbsp;
+[<img src="https://github.com/unity-technologies.png" title="Unity Technologies" height="50">](https://github.com/unity-technologies)&nbsp;
+[<img src="https://github.com/epicgames.png" title="Epic Games" height="50">](https://github.com/epicgames)&nbsp;
 
-- [Major Companies](#major-companies)
+
+
 - [Browser-Based](#user-content-browser-based)
   - [Boardgame](#user-content-boardgame)
   - [Arcade](#user-content-arcade)
@@ -31,25 +38,6 @@
 - [Chat bots](#chat-bots)
 - [Just The Source](#user-content-just-the-source)
 - [Frameworks/Engines/Libraries](#user-content-frameworksengineslibraries)
-- [Maps/Hacks/Plugins/Utilities/All of the Things™](#user-content-mapshackspluginsutilitiesall-of-the-things)
-
--------
-
-# Major Companies
-
-A selection of major game studios, publishers, etc. using GitHub:
-
-[<img src="https://github.com/valvesoftware.png" title="Valve" height="50">](https://github.com/valvesoftware)&nbsp;
-[<img src="https://github.com/riotgames.png" title="Riot Games" height="50">](https://github.com/riotgames)&nbsp;
-[<img src="https://github.com/OculusVR.png" title="Oculus VR Inc" height="50">](https://github.com/OculusVR)&nbsp;
-[<img src="https://github.com/unity-technologies.png" title="Unity Technologies" height="50">](https://github.com/unity-technologies)&nbsp;
-[<img src="https://github.com/electronicarts.png" title="Electronic Arts" height="50">](https://github.com/electronicarts)&nbsp;
-[<img src="https://github.com/ccpgames.png" title="CCP Games" height="50">](https://github.com/ccpgames)&nbsp;
-[<img src="https://github.com/epicgames.png" title="Epic Games" height="50">](https://github.com/epicgames)&nbsp;
-[<img src="https://github.com/zynga.png" title="Zynga" height="50">](https://github.com/zynga)&nbsp;
-
-
-# Browser-Based
 
 ## Boardgame
 
@@ -529,8 +517,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [XLE](https://github.com/xlgames-inc/XLE) - Rendering engine with advanced features such as Image Based Lighting, dynamic area lights, and a node based material editor. Flexible and modular, it is designed to drop into existing solutions. XLE is the "hackable" engine, intended to be customised for specialised requirements.
 
 -------
-
-# Maps/Hacks/Plugins/Utilities/All of the Things™
 
 * [Bfxr](https://github.com/increpare/bfxr) - Flash + AIR sound effects generator. Based on Sfxr.
 * [Brood War API](https://github.com/bwapi/bwapi) - C++ framework to interact with the Real Time Strategy (RTS) game Starcraft: Broodwar.
